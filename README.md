@@ -6,10 +6,6 @@
 * you can type fairly accurately and quickly
 * you already installed ruby and a text editor (not word)
 * it would help a lot if you know your way around a terminal
-* who has never been to rubyftw before?
-* how many have played D&D or RPGs?
-* how many people have programmed before?
-* how many people have played w/ ruby?
 
 ## Intro
 * irb

@@ -61,7 +61,7 @@
   - We just are asking it for something.  we might use object.send.  
 
 
-## battle
+## Battle
 * if statements, classes, objects, modules, constants, constructors, symbols
 * battle1 
   - so what we want is a way to simulate to character in battle.  
